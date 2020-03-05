@@ -1,6 +1,6 @@
 # Cart Calculator
 
-An app to do the math while shopping (and to learn Flutter's [provider](https://pub.dev/packages/provider) package
+An app to do the math while shopping (and to learn Flutter's [provider](https://pub.dev/packages/provider) package).
 
 ## Getting Started
 
